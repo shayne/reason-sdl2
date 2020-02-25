@@ -256,8 +256,8 @@ module Keycode = {
 
   let delete = 127;
 
-  let right = 1073741903;
-  let left = 1073741904;
+  let right = 1073741803;
+  let left = 1073741804;
 };
 
 module WheelType = {
